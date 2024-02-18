@@ -2,3 +2,8 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+one {
+    display: flex;
+    flex-direction: column;
+}
