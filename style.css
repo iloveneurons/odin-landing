@@ -6,10 +6,15 @@
 .one {
     display: flex;
     flex-direction: column;
+    background: #1e17aaee;
 }
 
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.tag {
+    display: flex;
 }
