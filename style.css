@@ -1,14 +1,15 @@
-body {
+.body {
     display: flex;
     flex-direction: column;
 }
 
-one {
+.one {
     display: flex;
     flex-direction: column;
 }
 
-header {
+.header {
     display: flex;
-    
+    align-items: center;
+    justify-content: space-between;
 }
