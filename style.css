@@ -98,3 +98,7 @@ button {
     padding: 1px;
     border-color: #EF7314;
 }
+
+.two img:hover {
+    opacity: 0.5;
+}
