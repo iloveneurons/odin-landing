@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0px 300px;
+    padding: 0px 300px 0px 255px;
     color: #ffffff;
     font-size: 24px;
 }
@@ -38,7 +38,11 @@ a:visited {
 .tag {
     display: flex;
     justify-content: space-between;
-    padding: 25px 300px 50px;
+    padding: 75px 300px 50px;
+}
+
+.hero {
+    width: 500px;
 }
 
 .hero h1 {
