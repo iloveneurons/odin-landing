@@ -84,3 +84,9 @@ button {
     gap: 30px;
     padding-top: 30px;
 }
+
+.two h2 {
+    color: #0784eaee;
+    font-size: 36px;
+    font-weight: 800;
+}
