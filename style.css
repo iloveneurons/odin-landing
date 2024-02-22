@@ -102,3 +102,7 @@ button {
 .two img:hover {
     opacity: 0.5;
 }
+
+.two p {
+    color: #EFA614;
+}
