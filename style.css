@@ -48,6 +48,8 @@ a:visited {
 
 .hero h1 {
     color: #F9FBFF;
+    font-size: 48px;
+    font-weight: 800;
 }
 
 .hero p {
@@ -67,4 +69,18 @@ button {
     border-style: double;
     border-color: #EFA614;
     padding: 4px;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 0px 75px;
+}
+
+.itineraries {
+    display: flex;
+    text-align: center;
+    gap: 30px;
+    padding-top: 30px;
 }
