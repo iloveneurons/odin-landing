@@ -13,9 +13,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0px 50px;
-    color: #edf1f4ee;
-    font-size: 18px;
+    padding: 0px 300px;
+    color: #ffffffee;
+    font-size: 24px;
 }
 
 .links {
@@ -37,5 +37,7 @@ a:visited {
 
 .tag {
     display: flex;
-    padding: 50px;
+    justify-content: space-between;
+    padding: 0px 300px 50px;
+    color: #ffffffee;
 }
