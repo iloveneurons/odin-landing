@@ -38,6 +38,7 @@ a:visited {
 .tag {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 75px 300px 50px;
 }
 
