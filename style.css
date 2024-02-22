@@ -106,3 +106,25 @@ button {
 .two p {
     color: #EFA614;
 }
+
+.three {
+    background-color: #C8E1FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 350px;
+    align-items: flex-end;
+}
+
+.three #quote {
+    font-size: 36px;
+    font-style: italic;
+    margin: 0px;
+}
+
+.three #author {
+    font-size: 30px;
+    font-weight: 700;
+    padding-right: 75px;
+    margin: 0px;
+}
