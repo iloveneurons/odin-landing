@@ -14,30 +14,46 @@
     align-items: center;
     justify-content: space-between;
     padding: 0px 300px;
-    color: #ffffffee;
+    color: #ffffff;
     font-size: 24px;
 }
 
 .links {
     display: flex;
-    gap: 16px;
+    gap: 20px;
 }
 
 a {
     text-decoration: none;
-    color: #edf1f4ee;
+    color: #ffffff;
     font-size: 18px;
 }
 
 a:visited {
     text-decoration: none;
-    color: #edf1f4ee;
+    color: #ffffff;
     font-size: 18px;
 }
 
 .tag {
     display: flex;
     justify-content: space-between;
-    padding: 0px 300px 50px;
-    color: #ffffffee;
+    padding: 25px 300px 50px;
+}
+
+.hero h1 {
+    color: #F9FBFF;
+}
+
+.hero p {
+    color: #F6F9FF;
+}
+
+button {
+    width: 140px;
+    height: 40px;
+    border-radius: 12px;
+    color: #ffffff;
+    background-color: #EF7314;
+    border: none;
 }
