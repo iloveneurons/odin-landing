@@ -56,7 +56,7 @@ a:visited {
     color: #F6F9FF;
 }
 
-button {
+.hero button {
     width: 140px;
     height: 40px;
     border-radius: 12px;
@@ -127,4 +127,39 @@ button {
     font-weight: 700;
     padding-right: 75px;
     margin: 0px;
+}
+
+.four .card {
+    display: flex;
+    background-color: #3C8EF3;
+    border-radius: 8px;
+    margin: 75px 300px;
+    padding: 30px 125px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.newsletter p {
+    margin: 0px;
+}
+
+#sign {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 650;
+    margin-bottom: 8px;
+}
+
+#convince {
+    color: #ffffff;
+    font-size: 21px;
+}
+
+.card button {
+    background-color: #3C8EF3;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 3px;
+    border-radius: 12px;
+    padding: 8px 20px;
 }
