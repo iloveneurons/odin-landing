@@ -1,4 +1,4 @@
-When you finish, write down a summary of the project and the skills you practiced by completing it. 
+This is a landing page for a hypothetical Japan travel agency. By completing this project, I practiced basic HTML and CSS skills, specifically how to align elements of the page to my liking using Flexbox. 
 
 Photo credits:
 Logo: Fernando Lavin (https://unsplash.com/@filmlav) on Unsplash
